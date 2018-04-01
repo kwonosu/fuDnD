@@ -4,10 +4,12 @@ Report #1 .htaccess
 문서내용
 --------
 
-> # Disable directory indexes
+> #Disable directory indexes
 > Options -Indexs
 
+
 - - -
+
 
 저장위치
 -------
