@@ -3,7 +3,7 @@ Report #2
 fork하는 방법
 -----------
 
-
+![Alt text](C:\pic\fork1.jpg "Optional title")
 
 - - -
 
