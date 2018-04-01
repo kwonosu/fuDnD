@@ -4,8 +4,8 @@ Report #1 .htaccess
 문서내용
 --------
 
-> #Disable directory indexes
-> Options -Indexs
+#Disable directory indexes
+Options -Indexs
 
 
 - - -
