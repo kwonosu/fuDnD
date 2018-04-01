@@ -1,12 +1,12 @@
 Report #1 .htaccess
 ===================
-1. ¹®¼­³»¿ë
+1. ë¬¸ì„œë‚´ìš©
 -----------
 # Disable directory indexes
 Options -Indexs
 
 - - -
 
-2. ÀúÀåÀ§Ä¡
+2. ì €ìž¥ìœ„ì¹˜
 -----------
-ÃÖ»óÀ§ Æú´õ¿¡ ÀÛ¼ºÇØµÐ´Ù.
+ìµœìƒìœ„ í´ë”ì— ìž‘ì„±í•´ë‘”ë‹¤.
