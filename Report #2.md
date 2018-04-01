@@ -3,7 +3,7 @@ Report #2
 fork하는 방법
 -----------
 
-![fork test](../pic/fork1.jpg "fork")
+![fork test](./fork1.jpg "fork")
 - - -
 
 fork한 것을 수정해서 commit을 승인하는 방법
