@@ -28,4 +28,4 @@ fork하는 방법
 fork한 것을 수정해서 commit을 승인하는 방법
 -----------
 
-![fork1](./img/comkjmit.png "fork")
+![fork1](./img/commit.png "fork")
